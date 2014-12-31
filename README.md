@@ -1,3 +1,3 @@
 rcwd
 ====
-This is a test repository.
+This is a test's repository.
