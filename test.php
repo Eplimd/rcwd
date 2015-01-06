@@ -8,3 +8,9 @@ It is a best ...
 
 echo "this test's php field";
 ?>
+
+<html>
+	<head>
+		<title>Test Page Title</title>
+	</head>
+</html>
