@@ -34,5 +34,6 @@ echo 'hellow world';
 	<b>this other a test line!</b>
 	<strong>hei!</strong>
 	<b>bug de</b>
+	tijiao dao dev2 banben ku 
     </body>
 </html>
