@@ -30,7 +30,6 @@ echo 'hellow world';
         <h1>hhhh</h1>
         <h3>the tag is too too to</h3>
 	<table><tr><td>wu</td></tr></table>
-	<div class="master"></div>
 	<div class="feature1"></div>
 	<b>this other a test line!</b>
 	<strong>hei!</strong>
