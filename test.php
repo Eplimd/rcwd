@@ -33,5 +33,6 @@ echo 'hellow world';
 	<div class="feature1"></div>
 	<b>this other a test line!</b>
 	<strong>hei!</strong>
+	<b>bug de</b>
     </body>
 </html>
