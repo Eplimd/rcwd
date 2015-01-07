@@ -35,5 +35,7 @@ echo 'hellow world';
 	<strong>hei!</strong>
 	<b>bug de</b>
 	tijiao dao dev2 banben ku 
+	zancun qu de bug
+	gongzuo qu de bug 
     </body>
 </html>
