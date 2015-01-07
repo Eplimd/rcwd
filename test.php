@@ -28,7 +28,6 @@ echo 'hellow world';
     </head>
     <body>
         <h1>hhhh</h1>
-        <h2>this min size he</h2>
         <h3>the tag is too too to</h3>
 	<div class="master"></div>
 	<div class="feature1"></div>
