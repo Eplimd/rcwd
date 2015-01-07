@@ -32,5 +32,6 @@ echo 'hellow world';
         <h3>the tag is too too to</h3>
 	<div class="master"></div>
 	<div class="feature1"></div>
+	<b>this other a test line!</b>
     </body>
 </html>
