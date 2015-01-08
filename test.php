@@ -42,3 +42,6 @@ echo 'hellow world';
 	this tag -s test.
     </body>
 </html>
+<?php
+echo "2th test all command";
+?>
