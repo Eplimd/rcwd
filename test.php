@@ -39,3 +39,6 @@ echo 'hellow world';
 	gongzuo qu de bug 
     </body>
 </html>
+<?php
+echo "2th test all command";
+?>
